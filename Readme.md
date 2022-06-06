@@ -1,5 +1,3 @@
-Complete the task - Jun6
+Completed
 
-
-Git is a free and open source 
 
