@@ -1,5 +1,7 @@
-Push your PRs here
+<<<<<<< HEAD
+Demo2 
 
-Push your PRs here
+=======
+Second PR by R
+>>>>>>> 6f2baf5 (Edited the readme.md file)
 
-Push your PRs here
